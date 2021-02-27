@@ -1,4 +1,9 @@
 # Lab8
 
-Cypress and Jest weren't working too well together
-so we've separated the two out in different parts
+### Groupmates
+- Name: Euicheon Hwang
+- PID: A14984264
+
+
+- Name: Jimin Cheon
+- PID: A15189241
